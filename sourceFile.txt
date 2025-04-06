@@ -1,0 +1,17 @@
+Dependences Requied to install
+a. nextjs
+b. talwindcss latest
+c. react-icons
+d. google fonts (for fonts just dounload it and add it to the files
+Example :
+ 
+
+)
+e. others will be updated
+
+
+
+Run this code to insall after dounloading the file from github
+cd frontend -> npm install 
+
+
