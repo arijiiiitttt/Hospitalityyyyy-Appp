@@ -1,4 +1,4 @@
-Dependences Requied to install
+Dependencies Requied to install
 a. nextjs
 b. talwindcss latest
 c. react-icons
